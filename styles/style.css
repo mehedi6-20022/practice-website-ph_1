@@ -17,6 +17,7 @@ main > article{
     width: 500px;
     float: left;
     width: 32%;
+    margin-right: 1%;
 }
 main > article > figure > img{
     width: 400px;
