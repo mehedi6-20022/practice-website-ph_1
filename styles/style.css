@@ -1,0 +1,24 @@
+header > nav > ul > li{
+   display: inline-block;
+   margin-left: 20px;
+   margin-top: 50px;
+}
+header > nav > ul {
+    text-align: center;
+    width: 100vw;
+}
+header > nav > ul > li > a{
+    text-decoration: none;
+    color: darkorange;
+    font-weight: 300;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+main > article{
+    width: 500px;
+    float: left;
+    width: 32%;
+}
+main > article > figure > img{
+    width: 400px;
+    height: 400px;
+}
